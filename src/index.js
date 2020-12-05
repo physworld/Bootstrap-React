@@ -35,7 +35,7 @@ class TestModal extends React.Component {
       <div>
       <Button variant="primary" onClick={this.handleShowFirst.bind(this)}>
          Launch first demo modal
-      </Button>{' '}
+      </Button>{'  '}
       <Button variant="primary" onClick={this.handleShowSecond.bind(this)}>
          Launch second demo modal
       </Button>
